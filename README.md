@@ -1,59 +1,81 @@
-# 👋 Hi, I'm Divyavaahini Thyagarajan
-*********************************************************************************************************************************************************************************************************************
-⚙️ From Biotech to Data Science | 🤖 AI • ML • Salesforce • Analytics | Always learning, always building
+👋 Hi, I'm Divyavaahini Thyagarajan
 
-🔧 **Tech Stack**  
-💻 **Programming:** Python 🐍, SQL 🗃️  
-🧠 **ML & Deep Learning:** Scikit-learn 📈, TensorFlow 🔶, Keras 🔁, PyTorch 🔥  
-📊 **Data Viz:** Power BI 📊, Tableau 📈, Excel 📘  
-🗣️ **NLP & AI:** spaCy 🧬, NLTK 🧠, Statsmodels 📐  
-⚙️ **CRM & Automation:** Salesforce ⚡ (Apex, LWC, Flows, CRM Analytics), Einstein 🤖  
-☁️ **Big Data & Cloud (Basics):** Spark ⚡, Cloud Computing ☁️
+🎓 Master’s in Computer Science (Data Science & Analytics) — EPITA, France 🇫🇷
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔬 Biotech → Data Science | AI • ML • Analytics • Salesforce
 
-🏗️ **What I Do**  
-I bridge the gap between biotech and data science to build intelligent, human-centered AI solutions.  
-With hands-on experience in machine learning, NLP, data visualization, and CRM automation, I design smart systems that drive decision-making and deliver measurable impact across industries.
+📍 Paris, France | 🌍 Open to global opportunities
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚙️ Always learning • Always building • Data-driven problem solver
 
-💡 **Recent Projects**
+--------------------------------------------------------------------------------------------
+🔧 Tech Stack
 
-📊 **Lung Cancer Mortality Analysis (Power BI)**  
-Processed over 1 million records to build dynamic dashboards and uncover key demographic risk factors.
+💻 Programming: Python 🐍, SQL 🗃️
 
-🌾 **Soil Moisture Forecasting (ML + DL)**  
-Developed LSTM, XGBoost, and Random Forest models (R² = 0.98) to predict soil moisture for smart agriculture.
+🧠 Machine Learning & AI:
+Scikit-learn 📈, TensorFlow 🔶, Keras 🔁, PyTorch 🔥
 
-💉 **H1N1 Vaccine Adoption Prediction**  
-Built classification models to predict public health responses and vaccine adoption behavior.
+🗣️ NLP & Statistical Modeling:
+spaCy 🧬, NLTK 🧠, Statsmodels 📐
 
-🛍️ **Customer Segmentation (RFM Analysis)**  
+📊 Data Visualization & Analytics:
+Power BI 📊, Tableau 📈, Excel 📘
+
+⚙️ CRM & Automation:
+Salesforce ⚡ (Apex, LWC, Flows, CRM Analytics), Einstein 🤖
+
+☁️ Big Data & Cloud (Foundational):
+Apache Spark ⚡, Cloud Computing ☁️
+
+------------------------------------------------------------------------------------------
+🏗️ What I Do
+
+I bridge the gap between biotechnology and data science to design intelligent, human-centered AI solutions.
+Currently pursuing my Master’s in Computer Science (Data Science & Analytics) at EPITA, France, I work across machine learning, NLP, analytics, and CRM automation to transform complex datasets into actionable insights.
+
+My interests lie in healthcare analytics, AI-driven decision systems, sustainability, and business intelligence.
+
+----------------------------------------------------------------------------------------
+💡 Recent Projects
+
+📊 Lung Cancer Mortality Analysis (Power BI)
+Processed 1M+ records to build interactive dashboards and uncover key demographic risk factors for public health insights.
+
+🌾 Soil Moisture Forecasting (ML & Deep Learning)
+Developed LSTM, XGBoost, and Random Forest models, achieving R² = 0.98 for smart agriculture prediction.
+
+💉 H1N1 Vaccine Adoption Prediction
+Built classification models to predict vaccine adoption behavior and support public health decision-making.
+
+🛍️ Customer Segmentation (RFM Analysis)
 Applied RFM scoring and clustering techniques to identify high-value customer segments.
 
-🧠 **Named Entity Recognition (NLP)**  
-Created NLP pipelines to extract structured data from biomedical and unstructured text using NER models.
+🧠 Named Entity Recognition (NLP)
+Designed NLP pipelines to extract structured data from biomedical and unstructured text using NER models.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+📜 Certifications & Learning
 
-📜 **Certifications & Publications**
+✅ Salesforce Certified AI Associate
 
-- ✅ Salesforce Certified AI Associate  
-- ✅ Neo4j Certified Professional  
-- 📊 PwC & Accenture Job Simulations (Data Analytics & Power BI)
+✅ Neo4j Certified Professional
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📊 PwC & Accenture Virtual Experience Programs (Data Analytics & Power BI)
 
-🎯 **My Passion**  
-I'm passionate about combining scientific curiosity with analytical thinking to solve real-world challenges. Whether it’s visualizing public health trends, building predictive models, or automating business insights with AI, I thrive at the intersection of data and innovation.
+------------------------------------------------------------------------------------------
+🎯 My Passion
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I am passionate about combining scientific research, analytical thinking, and AI to solve real-world problems.
+Whether it’s visualizing public health trends, building predictive models, or automating insights with data, I thrive at the intersection of data, innovation, and impact.
 
-📩 **Let’s Connect**  
-🔗 [LinkedIn](https://linkedin.com/in/divyavaahini-thyagarajan-684933315)  
-📝 [Medium Blog]-https://lnkd.in/d986mf8c)  
-📧 tdivyavaahini@gmail.com
+-------------------------------------------------------------------------------------------
+📩 Let’s Connect
 
-> “Where research meets real-time analytics — I build with data, curiosity, and purpose.”
+🔗 LinkedIn: https://linkedin.com/in/divyavaahini-thyagarajan-684933315
 
+✍️ Medium: https://lnkd.in/d986mf8c
+
+📧 Email: tdivyavaahini@gmail.com
+--------------------------------------------------------------------------------------------
+“Where research meets real-time analytics — I build with data, curiosity, and purpose.”
