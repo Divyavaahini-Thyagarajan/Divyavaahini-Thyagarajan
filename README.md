@@ -1,4 +1,4 @@
-👋 Hi, I'm Divyavaahini Thyagarajan
+👋 Hi, I'm ****Divyavaahini Thyagarajan****
 
 🎓 Master’s in Computer Science (Data Science & Analytics) — EPITA, France 🇫🇷
 
